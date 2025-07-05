@@ -1,4 +1,4 @@
-# 🛒 Fawry Rise Journey – E-commerce System 
+# Fawry Rise Journey – E-commerce System 
 
 This project is a solution to the **Full Stack Development Internship Challenge** from the Fawry Rise Journey program. It is a simple **Java-based e-commerce system** that supports product management, cart functionality, checkout processing, and shipping integration.
 
